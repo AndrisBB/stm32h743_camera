@@ -1,0 +1,7 @@
+.vscode/
+build
+toolchain
+Drivers/CMSIS
+
+
+FreeRTOS_OV7670_Capture.ioc
